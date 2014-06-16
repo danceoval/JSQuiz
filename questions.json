@@ -1,0 +1,33 @@
+ var questions = [
+
+{
+    "question": "JavaScript utilizes what kind of programming paradigm?",
+    "choices": ["Object Oriented", "Declarative", "Functional", "Symbolic"],
+    "correctAnswer": 0
+},
+
+{
+    "question": "Who invented JavaScript?",
+    "choices": ["Larry Page", "David Evans", "Brendan Eich", "Tim Heidecker"],
+    "correctAnswer": 2
+},
+
+{
+    "question": "JavaScript was initially created for...",
+    "choices": ["Server-side programming", "Content management", "Client-side programming", "Database management"],
+    "correctAnswer": 2
+},
+
+{
+    "question": "Which of the following is not an element of jQuery?",
+    "choices": ["DOM traversal", "HTML editing", "HTTP requests", "Static typing"],
+    "correctAnswer": 3
+},
+
+{
+    "question": "JavaScript is the lingua franca for what?",
+    "choices": ["Artificial Intelligence", "Front-End Web Development", "Exploratory Data Analysis", "Web Design"],
+    "correctAnswer": 1
+}
+
+];
